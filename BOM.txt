@@ -1,0 +1,6 @@
+2n2222 or any NPN transistor equivalent
+10k resistor
+Simple relay
+7805 voltage regulator
+220uF x 25v capacitor
+12v power supply
